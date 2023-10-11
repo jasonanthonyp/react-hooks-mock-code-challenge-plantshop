@@ -41,6 +41,99 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bob",
+      "image": "https://static.wikia.nocookie.net/characters/images/d/de/Rex.PNG/revision/latest?cb=20160717034515",
+      "price": "0.04",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": 0,
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": 0,
+      "id": 11
+    },
+    {
+      "0": {
+        "id": 1,
+        "name": "Aloe",
+        "image": "./images/aloe.jpg",
+        "price": 15.99
+      },
+      "1": {
+        "id": 2,
+        "name": "ZZ Plant",
+        "image": "./images/zz-plant.jpg",
+        "price": 25.98
+      },
+      "2": {
+        "id": 3,
+        "name": "Pilea peperomioides",
+        "image": "./images/pilea.jpg",
+        "price": 5.99
+      },
+      "3": {
+        "id": 4,
+        "name": "Pothos",
+        "image": "./images/pothos.jpg",
+        "price": 12.11
+      },
+      "4": {
+        "id": 5,
+        "name": "Jade",
+        "image": "./images/jade.jpg",
+        "price": 10.37
+      },
+      "5": {
+        "id": 6,
+        "name": "Monstera Deliciosa",
+        "image": "./images/monstera.jpg",
+        "price": 25.99
+      },
+      "6": {
+        "id": 7,
+        "name": "Fiddle Leaf Fig",
+        "image": "./images/fiddle-leaf-fig.jpg",
+        "price": 55
+      },
+      "7": {
+        "name": "Bob",
+        "image": "https://static.wikia.nocookie.net/characters/images/d/de/Rex.PNG/revision/latest?cb=20160717034515",
+        "price": "0.04",
+        "id": 8
+      },
+      "8": {
+        "name": "",
+        "image": "",
+        "price": 0,
+        "id": 9
+      },
+      "9": {
+        "name": "",
+        "image": "",
+        "price": 0,
+        "id": 10
+      },
+      "newlyAddedPlant": {
+        "name": "",
+        "image": "",
+        "price": 0,
+        "id": 11
+      },
+      "id": 12
     }
   ]
 }
